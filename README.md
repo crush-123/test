@@ -1,6 +1,6 @@
 # hello github
 //  let me use c to express it
-# include<stido.h>
+#include <stido.h>
 int main(void)
 {
   printf("hello, github\n");
